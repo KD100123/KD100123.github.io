@@ -1,0 +1,1 @@
+<div id="footer">Copyright &copy; <span style="color:#FF5200">jiandanma</span><span style="color:#0065FF">.com</span> , Powered by <a href="http://www.jiandanma.com" target="_blank">简单码源码</a></div>
